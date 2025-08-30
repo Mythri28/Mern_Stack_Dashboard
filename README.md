@@ -2,7 +2,7 @@
 
 A modern admin dashboard built with the MERN stack (MongoDB, Express.js, React, Node.js) featuring authentication, data visualization, and responsive design.
 
-## 🚀 Features
+ Features
 
 - **User Authentication** with JWT
 - **Responsive Dashboard** with charts
@@ -10,9 +10,9 @@ A modern admin dashboard built with the MERN stack (MongoDB, Express.js, React, 
 - **Modern UI** with custom CSS
 - **Data Visualization** with MUI X-Charts
 
-## 📦 Installation
+ Installation
 
-### Backend Setup
+ Backend Setup
 ```bash
 cd backend
 npm install
